@@ -1,0 +1,11 @@
+Camera Color Picker for Devicebook Privacy Policy
+
+1. Personal Information:
+The app does not collect any personal information. It captures the color as
+seen by your camera (HSV value) and sends it to Devicebook only if you are
+using the Camera Color Picker in Devicebook.
+
+2. How Camera is used:
+The camera is only used for picking a color: the color is extracted as a
+HSV value (Hue, Saturation, Brightness) from the pixels in the center.
+
